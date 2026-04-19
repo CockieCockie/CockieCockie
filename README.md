@@ -1,8 +1,7 @@
 # Привет! Я начинающий Minecraft разработчик 👋
 
 <div align="center">
-  <img src="[https://vercel.app](https://img.shields.io/badge/:badgeContent
-)" width="100%">
+  <img src="https://github.com/:user/:repo" width="100%">
 </div>
 
 ### 🔭 Обо мне
