@@ -1,16 +1,30 @@
-## Hi there 👋
+# Привет! Я начинающий Minecraft разработчик 👋
 
-<!--
-**CockieCockie/CockieCockie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://vercel.app" width="100%">
+</div>
 
-Here are some ideas to get you started:
+### 🔭 Обо мне
+Я погружаюсь в мир разработки серверных решений для Minecraft. Моя цель — создавать эффективные и интересные плагины.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Изучаю:** Глубокое устройство сервера и работу с **NMS** (пакеты, кастомные механики).
+- 🛠 **Практикуюсь:** Пишу плагины на базе **Spigot/Paper API**.
+- 📚 **Учусь:** Работать с рефлексией и оптимизацией кода, чтобы минимизировать нагрузку на сервер.
+
+### 💻 Технологии
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+### 📈 Мой прогресс
+<div align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</div>
+
+---
+
+<p align="center">
+  <i>"Код — это магия, а NMS — её тёмные искусства"</i>
+</p>
