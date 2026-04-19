@@ -1,7 +1,7 @@
 # Привет! Я начинающий Minecraft разработчик 👋
 
 <div align="center">
-  <img src="https://github.com/CockieCockie/repo" width="100%">
+  <img src="[https://github.com/CockieCockie/repo](https://github.com/CockieCockie?tab=repositories)" width="100%">
 </div>
 
 ### 🔭 Обо мне
