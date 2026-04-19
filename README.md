@@ -1,30 +1,59 @@
-# Разработчик плагинов Minecraft 🛠️
+<div align="center">
+  <h1>🧑‍💻 Разработчик плагинов для Minecraft</h1>
+  <p>Начинающий разработчик, увлечённый созданием плагинов для серверов Minecraft</p>
 
-Привет! Я начинающий разработчик плагинов для серверов Minecraft. Активно изучаю тонкости работы с API и NMS, создаю полезные инструменты для администраторов и игроков на ядрах Spigot и Paper.
+  [![Статус](https://img.shields.io/badge/Уровень-Начинающий-orange)]()
+  [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)]()
+  [![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)]()
+  [![Spigot](https://img.shields.io/badge/Spigot-6DBBD3?logo=spigot&logoColor=white)]()
+  [![Paper](https://img.shields.io/badge/Paper-4488FF?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzQ0ODhGRiIvPjwvc3ZnPg==&logoColor=white)]()
+</div>
 
-## ⚙️ Используемые технологии
+---
 
-| Технология | Бейдж |
-|----------|-------|
-| Java | [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)]() |
-| Gradle | [![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)]() |
-| Git | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)]() |
-| Spigot | [![Spigot](https://img.shields.io/badge/Spigot-6DBBD3?logo=spigot&logoColor=white)]() |
-| Paper | [![Paper](https://img.shields.io/badge/Paper-4488FF?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzQ0ODhGRiIvPjwvc3ZnPg==&logoColor=white)]() |
-| NMS | [![NMS](https://img.shields.io/badge/NMS-444444?color=555555)]() |
+## 👋 Привет!
 
-## 🧩 Что здесь есть
+Меня зовут [Ваше Имя], и я начинающий разработчик плагинов для Minecraft. Сейчас активно изучаю тонкости создания плагинов под ядра **Spigot** и **Paper**, работаю с **Bukkit API** и осваиваю **NMS** для реализации кастомных механик.
 
-В этом репозитории вы найдёте:
+Моя цель — создавать полезные, оптимизированные и стабильные плагины для улучшения игрового опыта на серверах Minecraft.
 
-* учебные плагины для изучения основ;
-* утилиты для администрирования серверов на Spigot/Paper;
-* плагины с кастомными механиками (с использованием NMS);
-* примеры оптимизации под высоконагруженные серверы (на базе Paper).
+## 🛠️ Что я использую
 
-## 🤝 Как помочь
+| Технология | Описание |
+|----------|----------|
+| **Java 17+** | Основной язык программирования |
+| **Gradle** | Система сборки проектов |
+| **Spigot API** | Для создания стабильных плагинов |
+| **Paper API** | Для оптимизации и использования расширенных возможностей |
+| **NMS (Netty, пакеты, сущности)** | Для низкоуровневого взаимодействия с игрой |
+| **Git/GitHub** | Контроль версий и совместная работа |
 
-Буду благодарен за:
-* багрепорты (через Issues);
-* предложения по улучшению (через Pull Requests);
-* обратную связь и идеи для новых плагинов.
+## 📊 Текущая статистика
+
+<div align="center">
+
+[![Строки кода](https://tokei.rs/b1/github/ВАШ_ЛОГИН/ВАШ_РЕПО?category=code)]()
+[![Активность коммитов](https://img.shields.io/github/commit-activity/w/ВАШ_ЛОГИН/ВАШ_РЕПО)]()
+[![Звёзд](https://img.shields.io/github/stars/ВАШ_ЛОГИН/ВАШ_РЕПО?style=social)]()
+[![Лицензия](https://img.shields.io/github/license/ВАШ_ЛОГИН/ВАШ_РЕПО)]()
+
+</div>
+
+## 🧩 Мои проекты
+
+В этом репозитории собраны мои учебные и практические проекты. Каждый плагин:
+* решает конкретную задачу для сервера;
+* сопровождается документацией;
+* готов к форку и улучшению.
+
+### Текущие проекты
+
+| Проект | Описание | Ядро | Статус |
+|------|----------|------|--------|
+| `SimpleKit` | Простая система выдачи стартовых наборов предметов | Spigot/Paper | ✅ Готово |
+| `CustomEnchants` | Кастомные чары с использованием NMS | Paper | 🔧 В разработке |
+| `AntiCheatLite` | Базовая система античита с детекцией подозрительных действий | Paper | 🔧 В разработке |
+| `TeleportGUI` | Удобный GUI для телепортации между локациями | Spigot | ✅ Готово |
+
+## 📚 Структура репозитория
+
