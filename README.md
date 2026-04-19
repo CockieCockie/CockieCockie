@@ -28,17 +28,6 @@
 | **NMS (Netty, пакеты, сущности)** | Для низкоуровневого взаимодействия с игрой |
 | **Git/GitHub** | Контроль версий и совместная работа |
 
-## 📊 Текущая статистика
-
-<div align="center">
-
-[![Строки кода](https://tokei.rs/b1/github/CockieCockie/tab?category=code)]()
-[![Активность коммитов](https://img.shields.io/github/commit-activity/w/CockieCockie/tab)]()
-[![Звёзд](https://img.shields.io/github/stars/CockieCockie/tab?style=social)]()
-[![Лицензия](https://img.shields.io/github/license/CockieCockie/tab)]()
-
-</div>
-
 ### Текущие проекты
 
 | Проект | Описание | Ядро | Статус |
@@ -47,6 +36,4 @@
 | `CustomEnchants` | Кастомные чары с использованием NMS | Paper | 🔧 В разработке |
 | `AntiCheatLite` | Базовая система античита с детекцией подозрительных действий | Paper | 🔧 В разработке |
 | `TeleportGUI` | Удобный GUI для телепортации между локациями | Spigot | ✅ Готово |
-
-## 📚 Структура репозитория
 
